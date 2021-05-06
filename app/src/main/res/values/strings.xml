@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieDBApi</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Most popular movies</string>
+    <string name="error_fetch_movies">Please check your internet connection</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="highest_rated_movies">Highest rated movies of all time</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="stay_updated">Stay updated with the latest movies</string>
+
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="email_login_activity">Email</string>
+    <string name="pass_login_activity">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_in">LOG IN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="prefs_file">com.hurtarte.moviedbapi.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">901363643770064</string>
+    <string name="fb_login_protocol_scheme">fb901363643770064</string>
+
+</resources>
